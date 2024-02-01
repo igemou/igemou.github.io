@@ -8,4 +8,4 @@ nav_order: 3
 # horizontal: false
 ---
 
-* Check out my [GitHub](https://github.com/yoghurtina) for a compilation of my favorite projects!
+- Check out my [GitHub](https://github.com/yoghurtina) for a compilation of my favorite projects!
