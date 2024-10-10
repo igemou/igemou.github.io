@@ -19,13 +19,15 @@ profile:
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello!
+Hello! I'm Ioanna!
 
-My name is Ioanna, and I'm pursuing a Master's degree in Biomedical Engineering at the [Technical University of Denmark](https://www.dtu.dk/english/). I also work as an electronics and software engineer at [Radiometer Medical](https://www.radiometer.com/).
+I'm a Master's student in Biomedical Engineering at the [Technical University of Denmark](https://www.dtu.dk/english/). I hold a Diploma in Electrical and Computer Engineering from the [University of Patras](https://www.upatras.gr/en/), where I completed my thesis under the guidance of Professors [Konstantinos Moustakas](https://www.vvr.ece.upatras.gr/) and [Athanasios Lourbopoulos](https://www.pharmacology-research.gr/portal/en/home-neuro).
 
-I have previously studied Electrical and Computer Engineering at the [University of Patras](https://www.upatras.gr/en/), where I completed my thesis under the guidance of Professors [Konstantinos Moustakas](https://www.vvr.ece.upatras.gr/) and [Athanasios Lourbopoulos](https://www.pharmacology-research.gr/portal/en/home-neuro).
+Currently, I am a Visiting Research Scholar at [Brown CS](https://cs.brown.edu/).
+I am a member of the [ATLAS Group](https://atlas.cs.brown.edu/) advised by [Nikos Vasilakis](https://nikos.vasilak.is/), working on the application of machine learning to systems.
+I am also part of the [Singh Lab](https://rsinghlab.org/), advised by [Ritambhara Singh](https://ritambharasingh.com/), where I focus on Health NLP.
 
-I am highy interested in neuroengineering and learning how the brain works. I am particularly fascinated by the integration of machine and deep learning in medicine and biology, which I actively explore in my studies. My ambition is to find new ways to solve complicated problems in these areas.
+My research interests lie at the intersection of machine learning, biology, and systems and my ambition is to find new ways to solve complicated problems in these areas.
 
 <!--
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
