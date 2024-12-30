@@ -29,4 +29,4 @@ I am also part of the [Singh Lab](https://rsinghlab.org/), advised by [Ritambhar
 
 My research interests lie at the intersection of machine learning, biology, and systems and my ambition is to find new ways to solve complicated problems in these areas.
 
-Beyond research, I enjoy sports, learning new languages, cooking, and reading fiction and non-fiction books.
+Beyond research, I enjoy sports, learning new languages, cooking, and reading books.
