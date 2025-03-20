@@ -7,13 +7,13 @@ permalink: /
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
-# news: true # includes a list of news items
+news: true # includes a list of news items
 # latest_posts: true # includes a list of the newest posts
 # selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -21,12 +21,17 @@ social: true # includes social icons at the bottom of the page
 
 Hello! I'm Ioanna!
 
-I'm a Master's student in Biomedical Engineering at the [Technical University of Denmark](https://www.dtu.dk/english/). I hold a Diploma in Electrical and Computer Engineering from the [University of Patras](https://www.upatras.gr/en/), where I completed my thesis under the guidance of Professors [Konstantinos Moustakas](https://www.vvr.ece.upatras.gr/) and [Athanasios Lourbopoulos](https://www.pharmacology-research.gr/portal/en/home-neuro).
+I'm an incoming PhD student in Computer Science at [Brown University](https://www.brown.edu/). 
+Previously, I was a Visiting Research Scholar in Brown’s [Computer Science Department](https://cs.brown.edu/), 
+where I worked in the [Singh Lab](https://rsinghlab.org/) with [Ritambhara Singh](https://ritambharasingh.com/) on Health NLP
+and in the [ATLAS Group](https://atlas.cs.brown.edu/) with [Nikos Vasilakis](https://nikos.vasilak.is/)
+on the application of machine learning to systems.
 
-Currently, I am a Visiting Research Scholar at [Brown CS](https://cs.brown.edu/).
-I am a member of the [ATLAS Group](https://atlas.cs.brown.edu/) advised by [Nikos Vasilakis](https://nikos.vasilak.is/), working on the application of machine learning to systems.
-I am also part of the [Singh Lab](https://rsinghlab.org/), advised by [Ritambhara Singh](https://ritambharasingh.com/), where I focus on Health NLP.
+Currently, I am finishing my Master’s in Biomedical Engineering at the [Technical University of Denmark](https://www.dtu.dk/english/).
+I hold a Diploma in Electrical and Computer Engineering from the [University of Patras](https://www.upatras.gr/en/), 
+where I was advised by Profs. [Konstantinos Moustakas](https://www.vvr.ece.upatras.gr/) and [Athanasios Lourbopoulos](https://www.pharmacology-research.gr/portal/en/home-neuro).
 
-My research interests lie at the intersection of machine learning, biology, and systems and my ambition is to find new ways to solve complicated problems in these areas.
+My research interests include deep learning for health and biology, multimodal learning, and explainable AI.
+I also like to explore the intersection of machine learning and systems.
 
 Beyond research, I enjoy sports, learning new languages, cooking, and reading books.
