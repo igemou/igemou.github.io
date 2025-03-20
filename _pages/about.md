@@ -7,7 +7,7 @@ permalink: /
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 Hello! I'm Ioanna!
 
 I'm an incoming PhD student in Computer Science at [Brown University](https://www.brown.edu/).
-Previously, I was a Visiting Research Scholar in Brown’s [Computer Science Department](https://cs.brown.edu/),
+Previously, I was a Visiting Research Scholar in [Brown CS](https://cs.brown.edu/),
 where I worked in the [Singh Lab](https://rsinghlab.org/) with [Ritambhara Singh](https://ritambharasingh.com/) on Health NLP
 and in the [ATLAS Group](https://atlas.cs.brown.edu/) with [Nikos Vasilakis](https://nikos.vasilak.is/)
 on the application of machine learning to systems.
