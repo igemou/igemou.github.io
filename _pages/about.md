@@ -19,7 +19,7 @@ news: true # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
-**Pronunciation:** _Ee-o-ah-na Yeh-moo_
+**Pronunciation:** _Ee-o-**ah**-na **Yeh**-moo_
 
 Hello! I'm Ioanna!
 
