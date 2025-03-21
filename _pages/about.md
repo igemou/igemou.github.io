@@ -25,9 +25,7 @@ Hello! I'm Ioanna!
 
 I'm an incoming PhD student in Computer Science at [Brown University](https://www.brown.edu/).
 Previously, I was a Visiting Research Scholar in [Brown CS](https://cs.brown.edu/),
-where I worked in the [Singh Lab](https://rsinghlab.org/) with [Ritambhara Singh](https://ritambharasingh.com/) on Health NLP
-and in the [ATLAS Group](https://atlas.cs.brown.edu/) with [Nikos Vasilakis](https://nikos.vasilak.is/)
-on the application of machine learning to systems.
+where I worked with [Ritambhara Singh](https://ritambharasingh.com/) and [Nikos Vasilakis](https://nikos.vasilak.is/).
 
 Currently, I am finishing my Master’s in Biomedical Engineering at the [Technical University of Denmark](https://www.dtu.dk/english/).
 I hold a Diploma in Electrical and Computer Engineering from the [University of Patras](https://www.upatras.gr/en/),
