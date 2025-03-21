@@ -6,4 +6,4 @@ related_posts: false
 published: true
 ---
 
-Joining [Radiometer Medical as](https://www.radiometer.com/) an Electronicas & Software Engineer!
+I am joining [Radiometer Medical](https://www.radiometer.com/) as Electronics & Software Engineer!
