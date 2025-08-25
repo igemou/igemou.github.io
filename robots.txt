@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yoghurtina.github.io/sitemap.xml
+Sitemap: https://igemou.github.io/sitemap.xml
