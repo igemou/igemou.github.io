@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>423</p>
-    <p>115</p>
+    <p>Office CIT 423,</p>
+    <p>115 Waterman St.,</p>
     <p>Providence, RI 02906</p>
 
 news: true # includes a list of news items
