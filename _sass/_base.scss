@@ -4,6 +4,23 @@
 
 // Typography
 
+body {
+  font-family: "Source Sans 3", "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.6;
+  text-rendering: optimizeLegibility;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Space Grotesk", "Source Sans 3", "Helvetica Neue", Arial, sans-serif;
+  letter-spacing: -0.01em;
+  text-wrap: balance;
+}
+
 p,
 h1,
 h2,
@@ -17,6 +34,10 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+}
+
+p {
+  text-wrap: pretty;
 }
 
 hr {
@@ -182,7 +203,8 @@ blockquote {
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    font-family: inherit;
+    font-size: 0.95rem;
 
     p {
       display: inline-block;

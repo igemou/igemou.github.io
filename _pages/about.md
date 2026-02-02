@@ -9,8 +9,7 @@ profile:
   image: professional_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office: CIT 423</p>
-    <p>115 Waterman St.</p>
+    <p>Office: CIT 423, 115 Waterman St.,</p>
     <p>Providence, RI 02906</p>
 
 news: true # includes a list of news items
@@ -23,6 +22,4 @@ social: true # includes social icons at the bottom of the page
 
 Hello! I'm Ioanna--a PhD student in Computer Science at [Brown University](https://www.brown.edu/), advised by [Ritambhara Singh](https://ritambharasingh.com/).
 
-My research focuses on developing principled deep learning methods for learning robust and interpretable representations from heterogeneous, multimodal data. I am particularly interested in applications in the healthcare domain.
-
-Beyond research, I enjoy sports, learning new languages, cooking, and reading books.
+My research focuses on understanding how deep learning models **learn** and **reason** over heterogeneous, multimodal data. I believe that for deep learning models to be meaningfully deployed in high-stakes domains such as healthcare, two components are essential: (a) principled representations that integrate diverse data sources in a coherent way, and (b) sufficient insight into the mechanisms by which models arrive at their predictions.

@@ -6,4 +6,4 @@ related_posts: false
 published: true
 ---
 
-I graduated from University of Patras with a diploma in Electrical and Computer Engineering!
+I graduated from [University of Patras](https://www.upatras.gr/en/) with a diploma in Electrical and Computer Engineering!
