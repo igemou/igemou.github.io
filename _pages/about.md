@@ -21,14 +21,8 @@ social: true # includes social icons at the bottom of the page
 
 <small>**Pronunciation:** /Eo-**ah**-na **Yeh**-moo/</small>
 
-Hello! I'm Ioanna -- a PhD student in Computer Science at [Brown University](https://www.brown.edu/).
-Before starting my PhD, I was a Visiting Research Scholar in [Brown CS](https://cs.brown.edu/),
-where I worked with [Ritambhara Singh](https://ritambharasingh.com/) and [Nikos Vasilakis](https://nikos.vasilak.is/).
+Hello! I'm Ioanna--a PhD student in Computer Science at [Brown University](https://www.brown.edu/), advised by [Ritambhara Singh](https://ritambharasingh.com/).
 
-I hold a Master’s in Biomedical Engineering from the [Technical University of Denmark](https://www.dtu.dk/english/), and
-a Diploma in Electrical and Computer Engineering from the [University of Patras](https://www.upatras.gr/en/).
-
-My research focuses on deep learning for health, with a special emphasis on multimodal learning, representation learning, and model interpretability.
-I also like to explore the intersection of machine learning and systems.
+My research focuses on developing principled deep learning methods for learning robust and interpretable representations from heterogeneous, multimodal data. I am particularly interested in applications in the healthcare domain.
 
 Beyond research, I enjoy sports, learning new languages, cooking, and reading books.
