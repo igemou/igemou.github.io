@@ -18,7 +18,7 @@ news: true # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
-<small>**Pronunciation:** /Eo-**ah**-na **Yeh**-moo/</small>
+<!-- <small>**Pronunciation:** /Eo-**ah**-na **Yeh**-moo/</small> -->
 
 Hello! I'm Ioanna--a PhD student in Computer Science at [Brown University](https://www.brown.edu/), advised by [Ritambhara Singh](https://ritambharasingh.com/).
 
