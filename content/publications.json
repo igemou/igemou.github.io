@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2026-06",
+    "venue": "arXiv '26",
+    "title": "A Geometric View of Counterfactual Behavior: Interaction of Boundary Proximity and Local Support",
+    "authors": ["Ioanna Gemou", "Matteo Gamba", "Randall Balestriero", "Ritambhara Singh"],
+    "tags": ["Explainability", "Representations"],
+    "links": { "link": "https://arxiv.org/abs/2606.04209", "pdf": "https://arxiv.org/pdf/2606.04209" },
+    "bib": { "type": "misc", "key": "gemou2026geometric", "eprint": "2606.04209", "archivePrefix": "arXiv", "primaryClass": "cs.LG" }
+  },
+  {
+    "date": "2026-05",
+    "venue": "ESOC '26 abstract",
+    "title": "Deep-Learning-Network Analysis of Stroke on Brain Sections: The StrokeAnalyst-2",
+    "authors": ["Ioanna Gemou", "Panagiotis Kiousis", "Angelos Pavlopoulos", "Anastasia Papavasileiou", "Uta Mamrak", "Stefan Roth", "Nikolaus Plesnila", "Constantinos Pantos", "Iordanis Mourouzis", "Konstantinos Moustakas", "Athanasios Lourbopoulos"],
+    "tags": ["AI4Science"],
+    "links": { "link": "https://doi.org/10.1093/esj/aakag023.920" },
+    "bib": { "type": "article", "key": "gemou2026strokeanalyst", "journal": "European Stroke Journal", "volume": "11", "number": "Supplement 1", "pages": "i523", "doi": "10.1093/esj/aakag023.920" }
+  },
+  {
+    "date": "2025-12",
+    "venue": "arXiv '25",
+    "title": "A Proof-of-Concept for Explainable Disease Diagnosis Using Large Language Models and Answer Set Programming",
+    "authors": ["Ioanna Gemou", "Evangelos Lamprou"],
+    "tags": ["Explainability", "AI4Science", "LLMs"],
+    "links": { "link": "https://arxiv.org/abs/2512.23932", "pdf": "https://arxiv.org/pdf/2512.23932" },
+    "bib": { "type": "misc", "key": "gemou2025proof", "eprint": "2512.23932", "archivePrefix": "arXiv", "primaryClass": "cs.AI" }
+  },
+  {
+    "date": "2025-09",
+    "venue": "WiML @ NeurIPS '25",
+    "title": "LLM-Powered Graph Reasoning for Knowledge Discovery",
+    "authors": ["Ioanna Gemou", "Tassallah Abdullahi", "Ritambhara Singh"],
+    "tags": ["LLMs"],
+    "links": { "link": "https://openreview.net/forum?id=1e2KXoV3li" }
+  },
+  {
+    "date": "2025-08",
+    "venue": "KDD '25",
+    "title": "K-Paths: Reasoning over Graph Paths for Drug Repurposing and Drug Interaction Prediction",
+    "authors": ["Tassallah Abdullahi", "Ioanna Gemou", "Nihal V. Nayak", "Ghulam Murtaza", "Stephen H. Bach", "Carsten Eickhoff", "Ritambhara Singh"],
+    "tags": ["Explainability", "AI4Science", "LLMs"],
+    "links": { "link": "https://dl.acm.org/doi/10.1145/3711896.3737011", "code": "https://github.com/rsinghlab/K-Paths", "pdf": "https://arxiv.org/pdf/2502.13344" },
+    "bib": { "type": "inproceedings", "key": "abdullahi2025kpaths", "booktitle": "Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2", "publisher": "ACM", "pages": "5--16", "doi": "10.1145/3711896.3737011" }
+  }
+]
