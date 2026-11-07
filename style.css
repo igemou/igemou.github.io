@@ -170,15 +170,6 @@ address {
 /* Main column */
 section { margin-bottom: 3.5rem; scroll-margin-top: 5rem; }
 
-.lead {
-  font-family: var(--display);
-  font-size: clamp(1.35rem, 1.1rem + 1vw, 1.6rem);
-  font-weight: 500;
-  line-height: 1.32;
-  letter-spacing: -.012em;
-  margin-bottom: 1.1rem;
-}
-
 h2 {
   margin: 0 0 1.25rem;
   padding-bottom: .5rem;

@@ -9,7 +9,7 @@
     { "label": "Email", "icon": "email", "url": "mailto:ioannagemou@gmail.com" },
     { "label": "CV", "url": "assets/pdf/IoannaGemou_CV.pdf" }
   ],
-  "intro": "Hello! I'm Ioanna, a PhD student in Computer Science at [Brown University](https://www.brown.edu/), advised by [Ritambhara Singh](https://ritambharasingh.com/).",
+  "intro": "Hello! I'm Ioanna, a PhD student in Computer Science at Brown University, advised by [Ritambhara Singh](https://ritambharasingh.com/).",
   "about": [
     "My research focuses on understanding how deep learning models **learn** and **reason** over heterogeneous, multimodal data. I believe that for deep learning models to be meaningfully deployed in high-stakes domains, two components are essential: (a) principled representations that integrate diverse data sources in a coherent way, and (b) sufficient insight into the mechanisms by which models arrive at their predictions.",
     "I am especially interested in applying these ideas to problems in healthcare and biology, and I am currently diving into the world of omics, particularly spatial transcriptomics :).",
