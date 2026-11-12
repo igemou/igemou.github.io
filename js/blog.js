@@ -20,12 +20,14 @@ function renderList(posts) {
 async function renderPost(post) {
   const response = await fetch(`content/posts/${encodeURIComponent(post.slug)}.md`, { cache: "no-cache" });
   if (!response.ok) throw new Error(`Could not load content/posts/${post.slug}.md (${response.status})`);
+  const markdown = await response.text();
+  const minutes = Math.max(1, Math.round(markdown.split(/\s+/).filter(Boolean).length / 230));
   document.title = `${post.title} – Ioanna Gemou`;
   container.innerHTML = `<a class="blog-back" href="blog.html">← All posts</a>
     <article class="post">
       <h1 class="blog-title">${escapeHtml(post.title)}</h1>
-      <time datetime="${escapeHtml(post.date)}">${formatMonth(post.date)}</time>
-      <div class="post-body">${marked.parse(await response.text())}</div>
+      <p class="post-meta"><time datetime="${escapeHtml(post.date)}">${formatMonth(post.date)}</time> · ${minutes} min read</p>
+      <div class="post-body">${marked.parse(markdown)}</div>
     </article>`;
   container.querySelectorAll('.post-body a[href^="http"]').forEach((link) => {
     link.target = "_blank";
