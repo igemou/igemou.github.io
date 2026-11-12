@@ -12,6 +12,6 @@ export async function renderProfile() {
   }).join("");
   document.querySelector("address").innerHTML = profile.address.map(escapeHtml).join("<br>");
   document.querySelector("#about").innerHTML =
-    `<p class="lead">${format(profile.intro)}</p>` +
+    `<p>${format(profile.intro)}</p>` +
     profile.about.map((paragraph) => `<p>${format(paragraph)}</p>`).join("");
 }
