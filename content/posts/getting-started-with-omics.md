@@ -54,7 +54,7 @@ The same, but **for each individual cell**. Data: cells × genes, mostly zeros. 
   <img src="assets/img/blog/getting-started-with-omics/spatial.svg" alt="Diagram: a tissue covered in colored spots; one spot is highlighted, showing its location and its own bar chart of gene activity.">
 </figure>
 
-Gene expression **plus where it happens** in the tissue. Data: cells (or small spots) × genes, plus x, y coordinates and often a microscope image. Typical question: how is the tissue organized? This is what I'm working on right now.
+Gene expression **plus where it happens** in the tissue. Data: cells (or small spots) × genes, plus x, y coordinates and often a microscope image. Typical question: how is the tissue organized?
 
 Spatial data comes in two main flavors. **Sequencing-based** methods (like 10x Visium) measure all genes, but each spot mixes several cells. **Imaging-based** methods (like MERFISH or Xenium) see individual molecules inside single cells, but only for a pre-chosen set of genes.
 
